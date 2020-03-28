@@ -53,13 +53,6 @@ header {
   text-decoration: none;
 }
 
-/*.text-title {*/
-/*  font-size: 24px;*/
-/*  font-weight: bold;*/
-/*  margin-top: 0;*/
-/*  margin-bottom: 20px;*/
-/*}*/
-
 .card-contents {
   padding: 10px;
   display: block;
@@ -82,6 +75,10 @@ header {
 .blog-item {
   display: flex;
   margin-bottom: 20px;
+}
+
+.blog-text {
+  margin-left: 20px;
 }
 
 .left-blog-title {
